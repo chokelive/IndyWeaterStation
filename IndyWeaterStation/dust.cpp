@@ -1,4 +1,4 @@
-#include <dust.h>
+#include "dust.h"
 #include <SoftwareSerial.h>
 
 SoftwareSerial pmsSerial(10, 11);

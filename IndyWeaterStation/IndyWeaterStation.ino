@@ -1,7 +1,7 @@
 #include <Arduino.h>
-#include <TemperatureHumidity.h>
-#include <dust.h>
-#include <uv.h>
+#include "TemperatureHumidity.h"
+#include "dust.h"
+#include "uv.h"
 
 struct WeatherStruct
 {
